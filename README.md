@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiayuzhao05
+- 👋 Hi, I’m Fenney
 - 👀 I’m interested in WEB3 
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on Cryptocurrency data analysis
