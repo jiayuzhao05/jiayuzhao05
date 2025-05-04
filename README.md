@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fenney
-- 👀 I’m interested in WEB3, Fintech, Machine Learning.
-- 🌱 I’m currently learning computer science and data science.
+- 👀 I’m interested in Fintech and Machine Learning.
+- 🌱 I’m currently learning computer science.
 - 📫 How to reach me via jiayuzhao@uchicago.edu
 - ⚡ Fun fact: Addicted to tennis and swim
 
