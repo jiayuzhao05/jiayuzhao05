@@ -1,4 +1,4 @@
-👋 Hi, I’m Fenney
+👋 Hi, I’m Fenney Zhao
 
 💻 **Software Engineer | Problem Solver**  
 - Proficient in Python, Java, and C++;  
