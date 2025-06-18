@@ -19,6 +19,7 @@
 ⚡ **Fun Fact**  
 - Avid tennis player and swimmer—sometimes I warm up for matches by solving algorithm problems 🏸🏊‍♂️
 
+[![Fenney's GitHub stats](https://github-readme-stats.vercel.app/api?jiayuzhao05=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jiayuzhao05/jiayuzhao05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
