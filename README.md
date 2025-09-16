@@ -7,10 +7,9 @@
 
 📚 **Education**  
 - Currently pursuing Computer Science and statistics at the University of Chicago  
-- Research interests: Distributed Systems, Machine Learning Algorithms, and Fintech
+- Research interests: Machine Learning Algorithms, and Fintech
 
 🌱 **Always Learning**  
-- Exploring microservices architecture, Kubernetes, and cloud-native deployments (AWS/GCP)  
 - Keeping up with cutting-edge deep learning techniques like Transformers, reinforcement learning, and automated trading strategies
 
 📫 **How to Reach Me**  
