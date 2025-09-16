@@ -3,7 +3,6 @@
 💻 **Software Engineer | Problem Solver**  
 - Proficient in Python, Java, and C++;  
 - Experienced with Git, Docker, and Linux; capable of end-to-end project deployment  
-- Strong object-oriented design skills, adheres to clean code practices and unit testing
 
 📚 **Education**  
 - Currently pursuing Computer Science and statistics at the University of Chicago  
