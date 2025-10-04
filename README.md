@@ -1,7 +1,7 @@
 👋 Hi, I’m Fenney
 
 💻 **Software Engineer | Problem Solver**  
-- Proficient in Python, Java, and C++;  
+- Proficient in Python, Java, and Javascript;  
 - Experienced with Git, Docker, and Linux; capable of end-to-end project deployment  
 
 📚 **Education**  
