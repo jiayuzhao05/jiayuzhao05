@@ -6,7 +6,7 @@
 
 📚 **Education**  
 - Currently pursuing Computer Science and statistics at the University of Chicago  
-- Research interests: Machine Learning Algorithms, and Fintech
+- Research interests: Fullstack, Algorithms, and Fintech
 
 🌱 **Always Learning**  
 - Keeping up with cutting-edge deep learning techniques like Transformers, reinforcement learning, and automated trading strategies
