@@ -5,7 +5,7 @@
 - Experienced with Git, Docker, and Linux; capable of end-to-end project deployment  
 
 📚 **Education**  
-- Currently pursuing Computer Science and statistics at the University of Chicago  
+- Currently pursuing Computer Science,statistics and finance policy at the University of Chicago  
 - Research interests: Fullstack, Algorithms, and Fintech
 
 🌱 **Always Learning**  
