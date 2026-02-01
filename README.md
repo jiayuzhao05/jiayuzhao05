@@ -15,7 +15,7 @@
 - Email: jiayuzhao@uchicago.edu  
 
 ⚡ **Fun Fact**  
-- Avid tennis player and swimmer—sometimes I warm up for matches by solving algorithm problems 🏸🏊‍♂️
+- Avid tennis player and swimmer 🏸🏊‍♂️
 
 
 
