@@ -18,6 +18,7 @@
 - Avid tennis player and swimmer 🏸🏊‍♂️
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jiayuzhao05)](https://git.io/streak-stats)
 
 <!---
 jiayuzhao05/jiayuzhao05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
