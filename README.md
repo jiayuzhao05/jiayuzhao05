@@ -19,6 +19,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jiayuzhao05)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=jiayuzhao05&repo=github-readme-stats)](https://github.com/jiayuzhao05/github-readme-stats)
 
 <!---
 jiayuzhao05/jiayuzhao05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
